@@ -1,0 +1,17 @@
+{
+    "name": "anonymouspro-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Mark Simonson"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/anonymouspro-bower.git"
+    },
+    "description": "Anonymous Pro font",
+    "keywords": [
+        "font",
+        "MONOSPACE"
+    ]
+}
